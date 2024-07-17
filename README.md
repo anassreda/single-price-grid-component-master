@@ -20,15 +20,18 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ### Screenshot
 
 ![](/images/Frontend-Mentor-Single-Price-Grid-Component.png) 
----------------------------------------/
+
+
+
+
 ![](/images/Frontend-Mentor-Single-Price-Grid-Component%20Phone.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/anassreda/single-price-grid-component-master)
-- Live Site URL: [Add live site URL here](https://anassreda.github.io/single-price-grid-component-master/)
+- Solution URL: [solution URL](https://github.com/anassreda/single-price-grid-component-master)
+- Live Site URL: [live site URL](https://anassreda.github.io/single-price-grid-component-master/)
 
 ### Built with
 
@@ -74,7 +77,7 @@ Interactive Components: Work more with interactive components like modals, carou
 Form Components: Refine the use of Bootstrap’s form components to create responsive and accessible forms.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/anassreda)
-- X - [@yourusername](https://x.com/anass_el_gh)
+- Frontend Mentor - [@anassreda](https://www.frontendmentor.io/profile/anassreda)
+- X - [@anass_el_gh](https://x.com/anass_el_gh)
 
 
