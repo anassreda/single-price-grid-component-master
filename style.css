@@ -1,0 +1,31 @@
+#Conmmuni{
+    font-weight: 700;
+    color: hsl(179, 62%, 43%);
+    font-size: 20px;
+  }
+  #Days{
+    color:hsl(71, 73%, 70%);
+    font-weight: 700;
+  }
+  #comunText {
+    font-size: 16px;
+    font-weight:400;
+    color: hsl(204, 43%, 93%);
+  }
+  #Whyus{
+    font-size: 15px;
+    font-weight:400;
+    color: hsl(204, 43%, 93%);
+  }
+  /* #perM{
+    font-size: 15px;
+    font-weight:400;
+    color: hsl(204, 43%, 93%);
+  } */
+  
+    div{
+      font-family: "Karla", sans-serif;
+      
+    }
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }

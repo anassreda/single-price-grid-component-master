@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  <title>Frontend Mentor | Single Price Grid Component</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+<style>
+  #Conmmuni{
+    font-weight: 700;
+    color: hsl(179, 62%, 43%);
+    font-size: 20px;
+  }
+  #Days{
+    color:hsl(71, 73%, 70%);
+    font-weight: 700;
+  }
+  #comunText {
+    font-size: 16px;
+    font-weight:400;
+    color: hsl(204, 43%, 93%);
+  }
+  #Whyus{
+    font-size: 15px;
+    font-weight:400;
+    color: hsl(204, 43%, 93%);
+  }
+
+  
+    div{
+      font-family: "Karla", sans-serif;
+
+    }
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+</style>
+</head>
+<body style="background-color: hsl(204, 43%, 93%);">
+  <div class="container  d-flex justify-content-center align-items-center w-100 " style="max-width: 1440px; min-width: 378px;">
+    <div class="row  mt-5  w-75 ">
+      <div class=" d-flex flex-column p-4  col col-md-12  col-12 justify-content-around h-50 rounded-top-4 " style="background-color:white;">
+        <div id="Conmmuni" style="font-weight: 700;">Join our community</div>
+        <div id ="Days">30-day, hassle-free money back guarantee</div>
+        <div id="comunText"> Gain access to our full library of tutorials along with expert code reviews. 
+          Perfect for any developers who are serious about honing their skills.</div>
+      </div>
+      <div class="col col-md-6 p-4 col-12 h-50 text-light d-flex flex-column justify-content-between " style="background-color: hsl(179, 61%, 44%);" >
+                    <h6 > Monthly Subscription</h6>
+                    <div class="fs-1">&dollar;29 <span id="perM" class="fs-6">per month</span></div>
+                    
+                    <div>Full access for less than &dollar;1 a day</div>
+                    <button class="col-12  btn  " style="background-color:  hsl(71, 73%, 54%);">Sign Up</button>
+      </div>
+      <div class="col col-md-6 p-4 col-12 text-light  d-flex flex-column " style="background-color:hsl(179, 47%, 52%);" >
+        <h6 > Why Us</h6>
+        <div id="Whyus" >   
+          Tutorials by industry experts
+          Peer &amp; expert code review
+          Coding exercises
+          Access to our GitHub repos
+          Community forum
+          Flashcard decks
+          New videos every week
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer>
+    <p class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="https://github.com/anassreda" target="_blank">Anass Elgha</a>.
+    </p>
+  </footer>
+</body>
+</html>
